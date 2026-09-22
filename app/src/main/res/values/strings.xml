@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">eighten</string>
+    <string name="station_name">Sports Radio 810 WHB</string>
+    <string name="live_radio">Live radio</string>
+    <string name="connecting">Connecting…</string>
+    <string name="playing">Playing live</string>
+    <string name="stop">Stop</string>
+    <string name="playback_error">Unable to play the stream</string>
+    <string name="audio_focus_error">Another app is using audio</string>
+    <string name="playback_channel_name">Radio playback</string>
+    <string name="playback_channel_description">Controls background radio playback</string>
+</resources>
